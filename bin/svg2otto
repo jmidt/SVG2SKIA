@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+
+require('../lib/svg2skia.js').run();
