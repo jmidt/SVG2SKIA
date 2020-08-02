@@ -7,34 +7,34 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
-   id="svg8"
+   sodipodi:docname="test.svg"
    inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
-   sodipodi:docname="test.svg">
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="400"
-     inkscape:cy="560"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1848"
-     inkscape:window-height="1016"
-     inkscape:window-x="72"
+     inkscape:window-maximized="1"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="72"
+     inkscape:window-height="1016"
+     inkscape:window-width="1848"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="560"
+     inkscape:cx="400"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -48,32 +48,28 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="fill:#000000;stroke:#000000;stroke-width:0.513001;stroke-linecap:round;stroke-linejoin:round"
-       id="rect967"
-       width="64.68325"
-       height="76.21743"
-       x="24.538784"
-       y="48.605331"
-       ry="0.027993709" />
-    <rect
-       style="fill:#f28a8a;stroke:#000000;stroke-width:0.513001;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
-       id="rect969"
-       width="86.927971"
-       height="56.141136"
-       x="63.010227"
-       y="162.42511"
-       ry="0.027993709" />
-    <rect
-       ry="0.027993709"
-       y="55.266354"
-       x="114.52493"
-       height="49.654293"
-       width="57.739555"
-       id="rect832"
-       style="fill:none;stroke:#000000;stroke-width:0.513001;stroke-linecap:round;stroke-linejoin:round" />
+     inkscape:label="Layer 1">
+    <circle
+       r="44.592262"
+       cy="83.509064"
+       cx="89.205261"
+       id="path833"
+       style="fill:#f28a8a;stroke:#000000;stroke-width:0.513001;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1" />
+    <ellipse
+       ry="17.962957"
+       rx="57.632046"
+       cy="166.17133"
+       cx="67.521996"
+       id="path844"
+       style="fill:#f28a8a;fill-opacity:1;stroke:#000000;stroke-width:0.513001;stroke-linecap:round;stroke-linejoin:round" />
+    <ellipse
+       ry="45.338146"
+       rx="33.399414"
+       cy="230.21288"
+       cx="104.7645"
+       id="path846"
+       style="fill:#f28a8a;fill-opacity:1;stroke:#000000;stroke-width:0.596946;stroke-linecap:round;stroke-linejoin:round" />
   </g>
 </svg>
