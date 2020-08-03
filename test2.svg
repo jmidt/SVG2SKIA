@@ -70,12 +70,12 @@
        d="M 49.395043,73.073415 37.244456,40.812846 60.557147,27.325216 63.538364,42.52941 87.996531,19.860403 76.350912,60.800747 Z"
        style="fill:#b8b8b8;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
     <path
-       id="path852"
-       d="m 108.91909,79.548161 4.51802,-33.107283 20.12319,13.415465 10.6003,-23.593896"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
        id="path854"
        d="m 126.25392,108.28702 27.42716,-18.92518 c 0,0 23.29231,3.754199 11.00024,-14.865591 -12.29207,-18.619792 -12.26127,-0.849953 -12.26127,-0.849953"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path856"
+       d="M 44.450018,82.205564 V 114.40287 H 74.03815 L 56.04964,104.01719 Z"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
