@@ -25,7 +25,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="437.58405"
-     inkscape:cy="311.30689"
+     inkscape:cy="310.59261"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -51,12 +51,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle
-       style="fill:#f28a8a;stroke:#000000;stroke-width:0.513001;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
-       id="path833"
-       cx="89.205261"
-       cy="83.509064"
-       r="44.592262" />
     <ellipse
        style="fill:#f28a8a;fill-opacity:1;stroke:#000000;stroke-width:0.513001;stroke-linecap:round;stroke-linejoin:round"
        id="path844"
@@ -71,21 +65,17 @@
        cy="230.21288"
        rx="33.399414"
        ry="45.338146" />
-    <rect
-       ry="0.027993709"
-       y="11.113709"
-       x="137.99702"
-       height="30.185125"
-       width="31.360121"
-       id="rect833"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect833-3"
-       width="89.531952"
-       height="29.836351"
-       x="137.99699"
-       y="15.34733"
-       ry="0.027670257" />
+    <path
+       id="path850"
+       d="M 49.395043,73.073415 37.244456,40.812846 60.557147,27.325216 63.538364,42.52941 87.996531,19.860403 76.350912,60.800747 Z"
+       style="fill:#b8b8b8;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+    <path
+       id="path852"
+       d="m 108.91909,79.548161 4.51802,-33.107283 20.12319,13.415465 10.6003,-23.593896"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path854"
+       d="m 126.25392,108.28702 27.42716,-18.92518 c 0,0 23.29231,3.754199 11.00024,-14.865591 -12.29207,-18.619792 -12.26127,-0.849953 -12.26127,-0.849953"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
